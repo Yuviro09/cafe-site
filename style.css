@@ -266,7 +266,7 @@ p {
     align-items: center;
     text-align: center;
     position: relative;
-    background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url('assets/hero_bg.png');
+    background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url('hero_bg.png');
     background-size: cover;
     background-position: center;
     padding: 0 1rem;
@@ -358,15 +358,15 @@ p {
 }
 
 .photo-1 {
-    background-image: url('assets/atmosphere_1.png');
+    background-image: url('atmosphere_1.png');
 }
 
 .photo-2 {
-    background-image: url('assets/atmosphere_2.png');
+    background-image: url('atmosphere_2.png');
 }
 
 .photo-3 {
-    background-image: url('assets/atmosphere_3.png');
+    background-image: url('atmosphere_3.png');
 }
 
 blockquote {
