@@ -266,7 +266,7 @@ p {
     align-items: center;
     text-align: center;
     position: relative;
-    background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url('hero_bg.png');
+    background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url(<img src="hero_bg.png">);
     background-size: cover;
     background-position: center;
     padding: 0 1rem;
